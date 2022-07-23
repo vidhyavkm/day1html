@@ -1,0 +1,61 @@
+shift ! enter or tab
+what is html? hypertext markup language.
+it consists of elements and tags
+all languages we have certain guidelines to write the code
+
+doctype: it informs the browser about the version of html
+
+<html></html>=90% of the tags we are using in html had open and closed angular brackets.
+language : english
+head : heading
+meta tags: these are all extra or external information about the browser
+
+Paragraph tag
+    <p>This is a Paragraph tag</p>--- this is calles as element
+
+heading tag:
+6 types 
+test size are different
+
+anchor tag:
+href, target: attributes
+redirected to other browser or website
+
+table tag:
+thead=heading of the table
+tbody=contents inside the table below heading
+tr= table rows a thead and a tbody has
+th= table head(number of heading cells inside thead)
+td= table data(number of cells inside tbody) 
+colspan-merge the columns horizontally 
+
+css: cascading style sheets
+to make our website beautiful and attractive 
+
+3 types:
+internal css => my style tag is always located inside head tags
+inline css
+external css
+
+division:
+it refers to the division or a part or a section of a document
+it contains 'n' number of different elements .(heterogeneous elements)
+
+section:
+it refers to the division or a part or a section of a document
+but it contains more number of same elements .(homogeneous elements), 
+
+article:
+mostly used in news websites
+it gives us a detailed information.
+
+html forms:
+whenever we want to get user's information and also for validation we can use form tag.
+
+auto close tags: input, br, hr
+
+create a simple form:
+
+for =>used in label , attribute for identification
+id: used in inputs(radio buttons)
+
